@@ -1,11 +1,11 @@
-# Hugging-face-demo
 ---
-title: {{title}}
-emoji: {{emoji}}
-colorFrom: {{colorFrom}}
-colorTo: {{colorTo}}
-sdk: {{sdk}}
-sdk_version: "{{sdkVersion}}"
+title: Demo MLOps
+emoji: 😻
+colorFrom: blue
+colorTo: red
+sdk: gradio
+sdk_version: 4.41.0
 app_file: app.py
 pinned: false
+license: cc
 ---
